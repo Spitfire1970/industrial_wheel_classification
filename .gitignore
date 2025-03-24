@@ -1,0 +1,3 @@
+*.pth
+myenv
+model_cache
